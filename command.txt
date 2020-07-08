@@ -1,0 +1,2 @@
+command 
+send email from terminal linux :  echo "My message" | mail -s subject user@gmail.com
